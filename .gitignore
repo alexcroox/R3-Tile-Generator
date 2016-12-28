@@ -1,0 +1,7 @@
+# Ignore everything (tons of AWS EC2 build files required for Lambda)
+*
+
+# But not these files...
+!.gitignore
+!index.py
+!test-event.json
